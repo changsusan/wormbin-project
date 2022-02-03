@@ -1,0 +1,20 @@
+.inside {
+  max-width: 300px;
+  height: auto;
+}
+.wrap {
+  background-color: #eaeded;
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 50px 40px;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+p {
+  font-size: larger;
+  text-align: center;
+  line-height: 2.5;
+}
